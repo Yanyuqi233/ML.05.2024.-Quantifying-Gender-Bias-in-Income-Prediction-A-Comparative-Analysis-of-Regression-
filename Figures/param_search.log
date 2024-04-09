@@ -1,0 +1,12 @@
+------------------------------------------------------
+Parameters for gender inclusive models
+------------------------------------------------------
+Lasso regression: {'alpha': 0.01, 'fit_intercept': False, 'max_iter': 1000}
+Ridge regression: {'alpha': 10, 'fit_intercept': True, 'max_iter': 1000, 'solver': 'sparse_cg'}
+SVR regression: {'C': 0.01, 'kernel': 'poly', 'epsilon': 0.01, 'degree': 6}
+------------------------------------------------------
+Parameters for gender exclusive models
+------------------------------------------------------
+Lasso regression: {'alpha': 0.01, 'fit_intercept': False, 'max_iter': 1000}
+Ridge regression: {'alpha': 10, 'fit_intercept': True, 'max_iter': 1000, 'solver': 'sparse_cg'}
+SVR regression: {'C': 0.01, 'kernel': 'poly', 'epsilon': 0.01, 'degree': 6}
