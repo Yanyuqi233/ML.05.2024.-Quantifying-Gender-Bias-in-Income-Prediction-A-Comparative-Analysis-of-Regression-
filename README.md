@@ -1,4 +1,5 @@
 # (Machine Leaning 05/2024) Quantifying Gender Bias in Income Prediction: A Comparative Analysis of Regression Models
+The report file is **Report.pdf**
 
 ## Goal
 This study focuses on quantifying **the impact of gender on income prediction by comparing the predictive quality of popular regression models when gender data is or isn’t available**. 
