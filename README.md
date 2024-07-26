@@ -5,7 +5,9 @@ This study focuses on quantifying the impact of gender on income prediction by c
 Using a dataset from the CPS(Current Population Survey), and employing regression analysis to predict income levels.
 
 ## Regression Models
-
+<div align="center">
+  <img src="./Images/Model Morphisms.png" alt=" Regression Model Morphisms" width="50%" height="auto">
+</div>
 
 ## Clustering
 
